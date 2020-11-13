@@ -56,7 +56,7 @@
     ],
 
     'docker-images': [
-        'odoo odoo regaby/odoo-ce:13.0',
+        'odoo regaby/odoo-ce:13.0',
         'postgres postgres:10.1-alpine',
         'nginx nginx'
     ]
