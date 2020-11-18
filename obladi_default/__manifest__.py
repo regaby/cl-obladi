@@ -17,6 +17,7 @@
     'limit_memory_hard': '760000000',
     'limit_time_cpu': '60',
     'limit_time_real': '120',
+    'dbfilter': 'obladi_11-11-2020',
 
     # manifest version, if omitted it is backward compatible
     'env-ver': '2',
