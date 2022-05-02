@@ -34,6 +34,7 @@
         'https://github.com/regaby/odoo-custom.git',
         'https://github.com/regaby/sdeh-pos.git',
         'https://github.com/jobiols/odoo-addons.git',
+        'https://github.com/filoquin/account_debt_management.git account_debt_management/account_debt_management',
         ## localización
         'https://github.com/ingadhoc/odoo-argentina.git',
         'https://github.com/ingadhoc/odoo-argentina-ce.git',
